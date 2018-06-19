@@ -1,0 +1,8 @@
+name: HDDiscord
+author: LloydPlayzHD
+version: 1
+main: eu.lloydplayzhd.hddiscord.Main
+commands:
+  discord:
+    description: Gives you the discord
+    aliases: [dc]
